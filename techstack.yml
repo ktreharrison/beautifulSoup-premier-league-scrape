@@ -1,7 +1,8 @@
 repo_name: ktreharrison/beautifulSoup-premier-league-scrape
-report_id: b4f2ce5ebed47bb698e459f9b210ef86
+report_id: 22a31a0fcd0f41a1ec57900df80cada1
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:27:34+00:00'
+timestamp: '2024-01-04T14:53:52+00:00'
 requested_by: ktreharrison
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ktreharrison/beautifulSoup-premier-league-scrape
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ktreharrison/beautifulSoup-premier-league-scrape
   detection_source: Repo Metadata
